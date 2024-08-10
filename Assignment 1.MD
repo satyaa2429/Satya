@@ -25,7 +25,6 @@
                 <li>Drawing</li>
                 <li>Writting Stories</li>
             </ul>
-        
         <br>
              <b> My favourirte website:</b> 
                <a href="https://www.netflix.com/">Netflix</a>
