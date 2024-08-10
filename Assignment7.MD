@@ -22,6 +22,5 @@
     The audio tag is used to embed sound content in a document, such as music or other audio streams. HTML5 gives you two tags - <video> and <audio>. 
 </h3>
 </dl>
-
 </body>
 </html>
