@@ -15,7 +15,6 @@ Assignment 4
             Bird
         </h1>
         </caption>  
-<br>
 <a href=" https://www.google.com/">Source of the image:</a>
     </body>
 </html>
