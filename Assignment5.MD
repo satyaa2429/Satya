@@ -13,7 +13,6 @@
     <li>Hero:Vijay Devara Konda</li>
     <li>Heroine :Rashmika Mandhana</li>
     <li>Geetha Govindam is a Indian Telugu-language romantic comedy film written and directed by Parasuram. Produced by GA2 Pictures</li>
-    
 </ul>
 <li>Majili</li>
 <ul type="circle">
