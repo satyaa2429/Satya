@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sematic HTML</title>
+    <title>Assignment 6</title>
 </head>
 <body>
     <header>
-        <h1>Welcome to skolar</h1>
+        <h1>My view about skolar</h1>
             <nav style="font-size: 25px;">
                 <a href="#home">Home</a>
                 <a href="#about">About</a>
@@ -16,40 +16,39 @@
     </header>
     <main id="home">
         <article>
-          <h2>Build a skill set that sets you apart from the others</h2>
-          <p>A quality skill development platform, built to help you find the relevant opportunities in your career.</p>
+          <h2>My Internship</h2>
+          <p>I'm very much glad to share my overview regarding this skolar Internship.At starting i'm very bit scary regarding this internship.Because of my acknowledgement regarding many things . And many people are having any bit knowledge every topic </p>
         </article>
         <article>
-            <h3>An unmatched skill development program, meant for all</h3>
-            <p>Skolar, unlike regular skill development, also introduces you to relevant opportunities in your career. This means extensive training programs, comprehensive skill development programs, regular placement training, and of course, resources to help you prepare.<br>
-                <li>15+ comprehensive courses </li><br>
-                <li>Skill development programs for all domains</li></p>
+            <h3>My Skills</h3>
+            <p>Before joining this skolar , I'm very enthusisatic in learning unknown things ,So i've tried my level best in this html in learning all these things <br>
+                <li>Being passionate is very good for all of us ,I think so.</li><br>
+                <li>Developing my skills day by day made my day complete i think so.</li><br>
+                <li>Skill sharpening that we all should do whenever we could possible.</li><br>
+</p>
         </article>
     </main>
     <aside id="about">
-    <p><b>Here are the important links to go through skolar</b></p>
+    <p><b>The online apps that I've been using to develop my skills</b></p>
        <ul style="list-style-type: square;">
         <li><a href="https://live.skolar.in/student/classes">Skolar</a></li>
         <li><a href="https://www.google.co.in/">Google</a></li>
         <li><a href="https://www.youtube.com/">YouTube</a></li>
         <li><a href="https://github.com/">Github</a></li>
         <li><a href="https://www.linkedin.com/company/skolar-in/">Linkedin</a></li>
-        <li><a href="https://instagram.com/skolar.in?igshid=YmMyMTA2M2Y=">Instagram</a></li>
-        <li><a href="https://discord.gg/B4XMvCFYRd">Discord</a></li></ul> 
     </aside>
     <footer id="contact">
-        <p><b>
-        Top-notch learning quality. Promised.</b><br>
-        Skolar ensures an exceptional standard of learning, all backed by mentors that have once filled the shoes you are now in</b> </p>
+        <p><b>  My Team mates in Skolar</b><br>
+Everyone are trying their level best in this Internship.Coming forward to learn something is good habbit.Some of them are graduaters and some of them are beginners like me.I wish i'll be the good competate with them</b></p>
     <div>
-       <a href="https://instagram.com/skolar.in?igshid=YmMyMTA2M2Y=">Instagram</a> 
-       <a href="https://www.linkedin.com/company/skolar-in/">Linkedin</a>
-       <a href="https://discord.gg/B4XMvCFYRd">Discord</a>
+       <li><a href="https://live.skolar.in/student/classes">Skolar</a></li>
+        <li><a href="https://www.google.co.in/">Google</a></li>
+        <li><a href="https://www.youtube.com/">YouTube</a></li>
     </div><br>
-       <b> Address </b><br>
-        112, BHIVE Workspace B Block, AKR Tech Park, GB Palya Bangalore 560068 <br><br>
-        <b>Contact Us</b><br>
-        support@skolar.in <br>+91 8105036846
+       <b> My suggestions:</b><br>
+        I request my mentor sir to mingle with everyone .so,that we could easily answer for his questions (or) We can rise our doubts <br><br>
+        <b>Contact us</b><br>
+        saisrii2429@gmail.com 
     </p>
     </footer>
 </body>
