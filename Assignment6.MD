@@ -47,8 +47,10 @@ Everyone are trying their level best in this Internship.Coming forward to learn 
     </div><br>
        <b> My suggestions:</b><br>
         I request my mentor sir to mingle with everyone .so,that we could easily answer for his questions (or) We can rise our doubts <br><br>
-        <b>Contact us</b><br>
+        <b>Contact me</b><br>
         saisrii2429@gmail.com 
+<br>
+9347859525
     </p>
     </footer>
 </body>
