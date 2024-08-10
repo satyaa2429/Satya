@@ -41,7 +41,6 @@
            The Indian Police Service (IPS) constituted under Article 312 of the Constitution of India, is one of the three All India services, the other two being IAS and IFS. The Indian Police Service replaced the Indian (Imperial) Police in 1948, a year after India's Independence.</p>
             <b>Contact police</b><br>
             100<br>
-
         <h3>Thankyou </h3>
     </footer>
 </body>
