@@ -4,7 +4,6 @@
         <title>
 HTML FORMS
         </title>
-        
     </head>
     <body>
 <form>
@@ -21,7 +20,6 @@ HTML FORMS
     <br>
     <br>
      I agree all terms and conditions:
-    
     <input type="checkbox" name= "checkbox" value="on"/>
      <br>
      <br>
