@@ -9,12 +9,14 @@ Assignment 4
         Image:
         <br>
         <br>
-        <img src="C:\Users\saisr\OneDrive\Pictures\b.jpg" height="200" width="200" >
+        <img src="b.jpg" height="200" width="200" >
         <caption>
             <h1>
             Bird
         </h1>
-        </caption>  
-<a href=" https://www.google.com/">Source of the image:</a>
+        </caption>
+<br>
+<h3>Source of the Image is:</h3>
+        <a href="https://www.google.com/">Google</a>
     </body>
 </html>
