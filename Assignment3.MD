@@ -8,7 +8,6 @@ Assignment 3
     <body>
         <table border="1" border color="black" bgcolor="white" >
 <tr>
-
   <th>schedule</th>
    <th>timings</th>
     <th>Monday</th>
@@ -29,7 +28,6 @@ Assignment 3
         <td>park</td>
         <td>Temple</td>
         <td>Market</td>
-
     </tr>
     <tr align="center">
         <td>Noon</td>
@@ -52,7 +50,6 @@ Assignment 3
         <td>College</td>
         <td>College</td>
         <td>Sleeping</td>
-
     </tr>
     <tr align="center">
         <td>evening</td>
