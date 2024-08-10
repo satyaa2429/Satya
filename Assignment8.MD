@@ -22,6 +22,11 @@
 <option value ="USA">USA</option>
 <option value ="CANADA ">CANADA</option>
 <option value ="CHINA">CHINA</option>
+<option value ="JAPAN">JAPAN</option>
+<option value ="VIETNAM">VIETNAM</option>
+<option value ="LONDON">LONDON</option>
+<option value ="BANGLADESH">BANGLADESH</option>
+
 </select>
 </br>
 </br>
