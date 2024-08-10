@@ -6,7 +6,7 @@
     <title>Assignment 9</title>
 </head>
 <body>
-    <header><h1>Welcome to Skolar</h1></header>
+    <header><h1>INDIA</h1></header>
    <div><nav>
         <ul>
             <li><a href="#home">Home</a></li>
@@ -16,35 +16,33 @@
     </nav></div>
     <div>
         <section id="home">
-            <h3>Here is the information about us</h3>
-            <p>Skolar Institute is a prestigious educational and research institution dedicated to fostering academic excellence, innovative research, and professional development.</p><p>Established with a vision to advance knowledge and empower learners, Skolar Institute provides a dynamic environment for scholars, researchers, and students to engage deeply with their fields of study.</p>
+            <h3>The country where people belive in divine</h3>
+            <p>The second most populous country in the world, India is home to 16 per cent of world's population. The country, however, counts for 2.42 per cent of the total world area. The literacy rate in the country is more than 65%. The official language of India is Hindi in Devnagari script.</p>
         </section>
     </div>
     <section id="about">
     <div>
-        <h3>Here is an article on skolar</h3>
-        <article>Skolar Institute is a prestigious educational and research institution dedicated to fostering academic excellence, innovative research, and professional development. Established with a vision to advance knowledge and empower learners, Skolar Institute provides a dynamic environment for scholars, researchers, and students to engage deeply with their fields of study.</article>
+        <h3>Information regarding INDIA</h3>
+        <article>The song "Jana-gana-mana", composed by Rabindranath Tagore, was adopted by the Constituent Assembly as the national anthem of India on 24 January 1950. It was first sung on 27 December 1911 at the Calcutta Session of the Indian National Congress. The complete song consists of five stanzas. The first stanza consists of the full version of the National Anthem.</article>
     </div>
     <aside>
-        <p><b>Here are the important links to go through us</b></p>
+        <p><b>Links to know about india</b></p>
            <ul>
-            <li><a href="https://live.skolar.in/student/classes">Skolar</a></li>
-            <li><a href="https://github.com/">Github</a></li>
-            <li><a href="https://www.linkedin.com/company/skolar-in/">Linkedin</a></li>
-            <li><a href="https://instagram.com/skolar.in?igshid=YmMyMTA2M2Y=">Instagram</a></li>
+            <li><a href="https://www.google.co.in/">Google</a></li>
+            <li><a href="https://www.youtube.com/">Youtube</a></li>
+            <li><a href="https://www.instagram.com/">Instagram</a></li>
             <li><a href="https://discord.gg/B4XMvCFYRd">Discord</a></li></ul> 
     </aside>
     </section>
     <footer id="contacts">
-        <h3>Here is the way to contact us :</h3>
+        <h3>If any need in India We can call the number of police:</h3>
         <p><b>
-            Top-notch learning quality. Promised.</b><br>
-            Skolar ensures an exceptional standard of learning, all backed by mentors that have once filled the shoes you are now in</p>
-           <b> Address </b><br>
-            112, BHIVE Workspace B Block, AKR Tech Park, GB Palya Bangalore 560068 <br><br>
-            <b>Contact Us</b><br>
-            support@skolar.in <br>+91 8105036846 <br>
-        <h3>Thankyou visit again</h3>
+            Polices like disha or fire engine,child care,will definetely take an acttio</b><br>
+           The Indian Police Service (IPS) constituted under Article 312 of the Constitution of India, is one of the three All India services, the other two being IAS and IFS. The Indian Police Service replaced the Indian (Imperial) Police in 1948, a year after India's Independence.</p>
+            <b>Contact police</b><br>
+            100<br>
+
+        <h3>Thankyou </h3>
     </footer>
 </body>
 </html>
